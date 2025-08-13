@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-13 06:19:39,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2025-08-13 18:24:13,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 💞央视💞,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
@@ -23,53 +23,50 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+湖北卫视,http://125.42.151.219:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://115.48.161.155:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://115.48.161.155:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://221.193.168.209:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://221.193.168.243:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+广西卫视,http://221.193.168.243:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://36.105.100.208:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+天津卫视,http://125.42.151.151:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
 ☘️广东频道,#genre#
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 
 ☘️浙江频道,#genre#
-嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
-青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
-庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed[浙江]洞头综合频道
-余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
-余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
-上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -104,7 +101,6 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
 ☘️四川频道,#genre#
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
-沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01?zsicd;http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 
 ☘️陕西频道,#genre#
@@ -141,13 +137,11 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
-祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd#rtmp://tv.qmxrmt.com/chan/ch1
 
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
-延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 
 ☘️内蒙古频道,#genre#
 内蒙经济,https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
