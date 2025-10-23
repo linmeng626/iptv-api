@@ -1,13 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-23 18:22:45,http://1.31.14.70:54321/hls/13/index.m3u8
+2025-10-24 06:19:50,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 💞央视💞,#genre#
-CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
-CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
-CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 
 💝河北💝,#genre#
-河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
 河北农民,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 💘林梦💘,#genre#
@@ -21,41 +17,30 @@ CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
-广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
-贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
-宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
-青海卫视,http://1.31.14.70:54321/hls/43/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-陕西卫视,http://1.31.14.70:54321/hls/46/index.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
-西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8
-新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
 ☘️广东频道,#genre#
@@ -63,8 +48,6 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
 ☘️浙江频道,#genre#
 嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -78,8 +61,6 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-武进生活,https://live.wjyanghu.com/live/CH2.m3u8
-睢宁综合,http://3739115311.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=TwMAAPjPskOkJ6kX&secondToken=secondToken%3AjegfwzYXwUE9HzG7kRfhCd81WMU&streamid=suining-tv%3Asuining-tv%2Fsuiningzh&v3=1&zjiangsd=
 
 ☘️辽宁频道,#genre#
 
@@ -95,7 +76,6 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
-什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 
 ☘️陕西频道,#genre#
@@ -131,10 +111,12 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
+祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd#rtmp://tv.qmxrmt.com/chan/ch1
 
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
+延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 
 ☘️内蒙古频道,#genre#
 
