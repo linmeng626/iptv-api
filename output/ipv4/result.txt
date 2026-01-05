@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-05 18:26:20,https://radio.pull.hebtv.com/live/hebnczx.m3u8
+2026-01-06 06:21:35,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 💞央视💞,#genre#
 
@@ -32,8 +32,8 @@
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
