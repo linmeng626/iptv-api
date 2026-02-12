@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-12 18:46:10,http://23.237.228.134/live5/CCTV3.m3u8
+2026-02-13 06:33:22,http://23.237.228.134/live5/CCTV3.m3u8
 
 💞央视💞,#genre#
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
@@ -38,7 +38,6 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
@@ -85,8 +84,8 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 ☘️福建频道,#genre#
 
 ☘️海南频道,#genre#
-海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 
 ☘️河南频道,#genre#
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
@@ -101,8 +100,8 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 ☘️新疆频道,#genre#
 
 ☘️山东频道,#genre#
-山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 ☘️山西频道,#genre#
 
