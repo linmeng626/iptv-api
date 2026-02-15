@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-15 18:27:46,http://23.237.228.134/live5/CCTV3.m3u8
+2026-02-16 06:25:39,http://23.237.228.134/live5/CCTV3.m3u8
 
 💞央视💞,#genre#
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
@@ -21,8 +21,8 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
@@ -39,8 +39,8 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
-深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
@@ -66,6 +66,7 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
 ☘️江苏频道,#genre#
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358
 
 ☘️辽宁频道,#genre#
 
@@ -82,7 +83,6 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-厦门卫视,http://125.42.150.159:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️海南频道,#genre#
 海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
@@ -127,6 +127,7 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+金鹰卡通,http://101.66.195.205:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
