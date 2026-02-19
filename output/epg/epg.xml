@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260218223353 +0800">
+<tv date="20260219104310 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -26943,14 +26943,14 @@
 	<channel id="重温经典">
 		<display-name lang="zh">重温经典</display-name>
 	</channel>
-	<programme channel="重温经典" start="20260219000000 +0800" stop="20260219031900 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="重温经典" start="20260219000000 +0800" stop="20260219032000 +0800">
+		<title lang="zh">开始</title>
 	</programme>
-	<programme channel="重温经典" start="20260219031900 +0800" stop="20260219040000 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="重温经典" start="20260219032000 +0800" stop="20260219040000 +0800">
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="重温经典" start="20260219040000 +0800" stop="20260219060000 +0800">
-		<title lang="zh">结束</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="重温经典" start="20260219060000 +0800" stop="20260219061100 +0800">
 		<title lang="zh">三十六个字</title>
