@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-28 18:24:31,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+2026-03-01 06:23:12,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 💞央视💞,#genre#
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
@@ -108,7 +108,6 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://101.66.194.198:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
