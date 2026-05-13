@@ -1,22 +1,8 @@
 🕘️更新时间,#genre#
-2026-05-13 07:02:25,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-05-13 20:12:08,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 💞央视💞,#genre#
-CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
-CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV-7,http://183.223.157.33:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV-14,http://183.223.157.33:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
 
 💝河北💝,#genre#
 河北农民,https://radio.pull.hebtv.com/live/hebnczx.m3u8
