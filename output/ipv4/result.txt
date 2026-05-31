@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-05-31 19:41:11,http://74.91.26.218:82/live/cctv17hd.m3u8
+2026-06-01 07:00:08,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 💞央视💞,#genre#
-CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 💝河北💝,#genre#
 河北农民,https://radio.pull.hebtv.com/live/hebnczx.m3u8
