@@ -1,13 +1,7 @@
 🕘️更新时间,#genre#
-2026-06-09 20:40:27,http://101.66.195.125:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-06-10 07:17:21,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 💞央视💞,#genre#
-CCTV-8,http://101.66.195.125:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-9,http://101.66.195.125:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-10,http://101.66.195.125:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-11,http://101.66.195.125:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-12,http://101.66.195.125:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-13,http://101.66.195.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 
 💝河北💝,#genre#
 河北农民,https://radio.pull.hebtv.com/live/hebnczx.m3u8
@@ -18,23 +12,16 @@ CCTV-13,http://101.66.195.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-湖北卫视,http://101.66.195.125:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
-贵州卫视,http://101.66.195.125:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://101.66.195.125:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江西卫视,http://115.48.161.50:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://125.43.244.34:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://101.66.195.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-四川卫视,http://101.66.195.125:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-云南卫视,http://101.66.195.125:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
 ☘️广东频道,#genre#
@@ -109,8 +96,6 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://125.43.244.34:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://101.66.195.125:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
