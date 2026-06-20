@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-20 06:57:37,https://radio.pull.hebtv.com/live/hebnczx.m3u8
+2026-06-20 19:56:12,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 💞央视💞,#genre#
 
@@ -57,8 +57,8 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 ☘️福建频道,#genre#
 
 ☘️海南频道,#genre#
-海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 
 ☘️河南频道,#genre#
 
