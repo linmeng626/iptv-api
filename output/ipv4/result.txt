@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-06-22 07:12:46,https://radio.pull.hebtv.com/live/hebnczx.m3u8
+2026-06-22 23:24:07,https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 
 💞央视💞,#genre#
+CCTV-1,https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 
 💝河北💝,#genre#
 河北农民,https://radio.pull.hebtv.com/live/hebnczx.m3u8
@@ -95,6 +96,7 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+金鹰卡通,http://125.42.150.56:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
