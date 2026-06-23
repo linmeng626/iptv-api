@@ -1,15 +1,7 @@
 🕘️更新时间,#genre#
-2026-06-23 07:21:01,http://101.66.194.49:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-06-23 20:32:57,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 💞央视💞,#genre#
-CCTV-6,http://101.66.194.49:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-8,http://101.66.198.87:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-9,http://101.66.198.87:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-9,http://101.66.194.49:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-10,http://101.66.194.49:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-11,http://101.66.194.49:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://101.66.198.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://101.66.194.49:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 
 💝河北💝,#genre#
 河北农民,https://radio.pull.hebtv.com/live/hebnczx.m3u8
@@ -22,7 +14,6 @@ CCTV-15,http://101.66.194.49:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://101.66.198.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
@@ -39,7 +30,6 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 
 ☘️上海频道,#genre#
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
@@ -104,8 +94,6 @@ BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://101.66.194.49:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.198.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
