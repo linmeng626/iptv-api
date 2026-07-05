@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-05 19:35:36,http://221.193.168.224:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-07-06 07:00:57,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
 
 💞央视💞,#genre#
-CCTV-13,http://221.193.168.224:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
 
 💝河北💝,#genre#
@@ -22,7 +21,6 @@ CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-天津卫视,http://125.42.151.195:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 
