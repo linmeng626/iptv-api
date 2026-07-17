@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-17 19:21:28,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
+2026-07-18 06:50:31,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 
 💞央视💞,#genre#
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
+CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.105:8092
 CCTV-10,http://drive.mxmy.net:8888/udp/239.3.1.63:8116
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
 
