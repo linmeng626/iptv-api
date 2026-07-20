@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-20 20:17:15,http://drive.mxmy.net:8888/udp/239.3.1.105:8092
+2026-07-21 07:00:33,http://drive.mxmy.net:8888/udp/239.3.1.105:8092
 
 💞央视💞,#genre#
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.105:8092
@@ -22,8 +22,6 @@ CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://182.114.48.224:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://182.114.48.224:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
